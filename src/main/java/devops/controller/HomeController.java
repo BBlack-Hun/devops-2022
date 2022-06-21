@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "Hello World";
+        return "빌드가 자동으로 되는지 테스트";
     }
 }
