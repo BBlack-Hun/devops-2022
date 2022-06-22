@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "이제 배포도 되는가???3333333";
+        return "이제 배포도 되는가???444444";
     }
 }
