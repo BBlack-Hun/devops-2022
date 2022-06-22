@@ -8,6 +8,6 @@ public class HomeController {
 
     @GetMapping
     public String home() {
-        return "빌드가 자동으로 되는지 테스트111111111111111111111</br>이제 배포도 되는가???";
+        return "빌드가 자동으로 되는지 테스트111111111111111111111이제 배포도 되는가???";
     }
 }
